@@ -1,0 +1,35 @@
+{
+  "name": "@toyokumo/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for Toyokumo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toyokumo/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Toyokumo, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toyokumo/prettier-config/issues"
+  },
+  "homepage": "https://github.com/toyokumo/prettier-config#readme",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.json"
+  ],
+  "dependencies": {
+    "standard-version": "^9.1.1"
+  },
+  "peerDependencies": {
+    "prettier": "^2.2.1",
+    "@prettier/plugin-php": "^0.16.2"
+  }
+}

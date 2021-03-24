@@ -1,0 +1,16 @@
+{
+  "printWidth": 120,
+  "overrides": [
+    {
+      "files": ["*.js", "*.jsx", "*.ts", "*.tsx", "*.vue"],
+      "options": {
+        "trailingComma": "all",
+        "singleQuote": true
+      }
+    },
+    {
+      "files": ["*.php"],
+      "options": {}
+    }
+  ]
+}
