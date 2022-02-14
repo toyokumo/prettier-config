@@ -10,7 +10,9 @@
     },
     {
       "files": ["*.php"],
-      "options": {}
+      "options": {
+        "singleQuote": true
+      }
     }
   ]
 }
