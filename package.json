@@ -26,10 +26,10 @@
     "index.json"
   ],
   "peerDependencies": {
-    "@prettier/plugin-php": "^0.16.2",
-    "prettier": "^2.2.1"
+    "@prettier/plugin-php": "^0.18.1",
+    "prettier": "^2.5.1"
   },
   "devDependencies": {
-    "standard-version": "^9.1.1"
+    "standard-version": "^9.3.2"
   }
 }
