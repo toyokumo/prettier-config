@@ -13,6 +13,12 @@
       "options": {
         "singleQuote": true
       }
+    },
+    {
+      "files": ["*.graphql"],
+      "options": {
+        "tabWidth": 4
+      }
     }
   ]
 }
