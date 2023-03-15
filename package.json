@@ -1,6 +1,6 @@
 {
   "name": "@toyokumo/prettier-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Prettier config for Toyokumo",
   "main": "index.json",
   "scripts": {
