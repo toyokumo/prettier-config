@@ -1,6 +1,9 @@
 {
   "name": "@toyokumo/prettier-config",
   "version": "1.0.4",
+  "engines": {
+    "node": ">=18"
+  },
   "description": "Prettier config for Toyokumo",
   "main": "index.json",
   "scripts": {
